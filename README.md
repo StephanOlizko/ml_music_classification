@@ -10,7 +10,7 @@ This project aims to classify music genres using machine learning techniques. Th
 
 ## Getting Started
 
-1. Clone the repository.0
+1. Clone the repository.
 2. Install the required Python packages.
 3. Download the dataset (https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs/data).
 4. Run the `data_processing.ipynb` notebook to process the data.
